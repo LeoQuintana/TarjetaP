@@ -13,3 +13,9 @@ body{
 #cuatro{
 	width: 6%;
 }
+#cuerpo{
+	background-color: rgba(30,167,191,0.8);
+	width: 50%;
+	height: 300px;
+	margin: 5% auto auto 25%;
+}
