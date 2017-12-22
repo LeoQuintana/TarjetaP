@@ -24,7 +24,8 @@ body{
 	margin-top: 0.32%;
 }
 #cuerpo{
-	background-color: rgba(30,167,191,0.8);
+	/*background-color: rgba(30,167,191,0.8);*/
+	background: url("http://impresionantescr.com/imgs/fondos_f02.jpg") no-repeat;
 	width: 50%;
 	height: 300px;
 	margin: 5% auto auto 23%;
