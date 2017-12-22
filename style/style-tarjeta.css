@@ -29,6 +29,8 @@ body{
 	height: 300px;
 	margin: 5% auto auto 23%;
 	padding: 20px;
+	border-radius: 8px;
+	border: 1px solid grey;
 }
 #img{
 	width: 50%;
