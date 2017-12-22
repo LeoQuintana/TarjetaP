@@ -2,16 +2,26 @@ body{
 	background-color: rgb(31,139,158);
 }
 #uno{
-	width: 5%;
+	width: 10.5%;
+	margin-left: 34%;
 }
 #dos{
 	width: 3.5%;
+	margin-top: 0.8%;
+	position: absolute;
+	margin-left: 2%;
 }
 #tres{
 	width: 3.3%;
+	position: absolute;
+	margin-left: 8.6%;
+	margin-top: 0.87%;
 }
 #cuatro{
 	width: 6%;
+	position: absolute;
+	margin-left: 13.8%;
+	margin-top: 0.32%;
 }
 #cuerpo{
 	background-color: rgba(30,167,191,0.8);
@@ -19,3 +29,10 @@ body{
 	height: 300px;
 	margin: 5% auto auto 25%;
 }
+#img{
+	width: 50%;
+	height: 200px;
+	margin-left: 20%;
+	
+}
+
