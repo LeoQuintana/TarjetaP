@@ -31,7 +31,9 @@ body{
 	margin: 5% auto auto 24%;
 	padding: 20px;
 	border-radius: 8px;
-	border: 1px solid black;
+	border: 1px solid;
+	border-color: rgba(86,88,89,0.5);
+	box-shadow: 14px -5px 20px 0px;
 }
 #img{
 	width: 50%;
