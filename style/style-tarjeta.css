@@ -43,8 +43,10 @@ p{
 	margin-top: 2.2%;
 }
 #perfil{
-	border-radius: 8px;
+	border-radius: 500px;
 	position: absolute;
-	margin: 1% auto auto 3%;
+	margin: 2.5% auto auto 3.5%;
+	height: 214px;
+	width: 200px;
 }
 
