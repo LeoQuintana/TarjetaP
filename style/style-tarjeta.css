@@ -27,7 +27,7 @@ body{
 }
 #cuerpo{
 	/*background-color: rgba(30,167,191,0.8);*/
-	background: url("https://communitycenteratvis.files.wordpress.com/2012/10/blue-background.jpg") no-repeat;
+	background: url("https://png.pngtree.com/thumb_back/fw800/back_pic/03/62/74/2157ab321180285.jpg") no-repeat;
 	width: 47%;
 	height: 300px;
 	margin: 5% auto auto 24%;
@@ -46,6 +46,11 @@ p{
 	margin-left: 52%;
 	margin-top: 9.5%;
 	margin-bottom: -8%;
+	color: white;
+	font-family: sans-serif;
+	font-style: italic;
+	font:bold 18px "Trebuchet MS";
+
 }
 #perfil{
 	border-radius: 500px;
@@ -56,7 +61,8 @@ p{
 }
 h2{
 	position: absolute;
-	margin-left: 14%;
+	margin-left: 14.5%;
 	margin-top: -0.5%;
+	color: white;
 }
 
