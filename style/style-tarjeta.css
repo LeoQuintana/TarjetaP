@@ -39,15 +39,20 @@ body{
 	margin-left: 20%;	
 }
 p{
-	margin-left: 46%;
-	margin-top: 6%;
-	margin-bottom: -3%;
+	margin-left: 52%;
+	margin-top: 9.5%;
+	margin-bottom: -8%;
 }
 #perfil{
 	border-radius: 500px;
 	position: absolute;
-	margin: 2.5% auto auto 3.5%;
+	margin: 3.8% auto auto 5%;
 	height: 214px;
 	width: 200px;
+}
+h2{
+	position: absolute;
+	margin-left: 15%;
+	margin-top: -0.5%;
 }
 
